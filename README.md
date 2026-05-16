@@ -48,7 +48,7 @@ This system was developed to support administrative processes including:
 
 ### NRKB Data Management
 
-![Login](docs/dataMan.png)
+![DataNRKB](docs/datanrkb.png)
 
 ## Deployment
 
