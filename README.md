@@ -37,19 +37,18 @@ This system was developed to support administrative processes including:
 - Modular Administration System
 - VPS Production Deployment
 
+
 ## Screenshots
 
 ### Login Page
-
-(Add screenshot here)
+![Login](docs/login.png)
 
 ### Dashboard
-
-(Add screenshot here)
+![Dashboard](docs/dashboard.png)
 
 ### NRKB Data Management
 
-(Add screenshot here)
+![Login](docs/dataMan.png)
 
 ## Deployment
 
